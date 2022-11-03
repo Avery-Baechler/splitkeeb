@@ -1,5 +1,12 @@
 # splitkeeb
 
+# overview
+PCB fabricated with JLCPCB
+3d Printed Case
+Choc Low pro switches 
+
+
+
 Row : 0 : D15 —> B1
 Row : 1 : D14 —>  B3
 Row : 2 : D16 —> B2
